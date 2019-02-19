@@ -33,7 +33,7 @@ class StockWindow:
         self.app = QtWidgets.QApplication([])
 
         # Loads the UI from a .ui file
-        self.sw = uic.loadUi("StockWare.ui")
+        self.sw = uic.loadUi("StockLookup.ui")
 
         # this is the window in which we have our graph
         self.sw.figure = plt.figure(num=None, figsize=(100, 80), dpi=80, facecolor='w', edgecolor='k')
