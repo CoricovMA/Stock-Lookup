@@ -1,2 +1,2 @@
-# Stock-Lookup
+# Stock Lookup
 Stock Lookup Software
